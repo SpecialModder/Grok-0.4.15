@@ -1,0 +1,23 @@
+{
+  "show": true,
+  "version_code": 1490,
+  "title": "Version 5.0 Out Now!",
+  "dis": "Exciting new features available!",
+  "link": "https://Example.com",
+  "features": [
+    "Bug fixes and performance improvements",
+    "New user interface",
+    "Dark mode support",
+    "Premium Features",
+    "Online Change Everything"
+  ],
+  "update_button_text": "UPDATE",
+  "expired_button_text": "24H Trial",
+  "block_duration": {
+    "days": 0,
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 12
+  },
+  "dark_mode": false
+}
