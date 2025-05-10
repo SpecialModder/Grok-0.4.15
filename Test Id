@@ -1,0 +1,14 @@
+[
+  {
+    "id": "39c4a082d391c742",
+    "key": "batot",
+    "expiresAt": "2025-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  }
+]
