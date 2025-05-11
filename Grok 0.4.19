@@ -1,9 +1,9 @@
 {
-  "show": true,
+  "show": false,
   "version_code": 1490,
   "title": "Version 5.0 Out Now!",
   "dis": "Exciting new features available!",
-  "link": "https://Example.com",
+  "link": "https://t.me/+A6Toh7mp-W4zN2Y0",
   "features": [
     "Bug fixes and performance improvements",
     "New user interface",
@@ -12,12 +12,12 @@
     "Online Change Everything"
   ],
   "update_button_text": "UPDATE",
-  "expired_button_text": "24H Trial",
+  "expired_button_text": "72H Trial",
   "block_duration": {
-    "days": 0,
+    "days": 3,
     "hours": 0,
     "minutes": 0,
-    "seconds": 12
+    "seconds": 1
   },
-  "dark_mode": false
+  "dark_mode": true
 }
