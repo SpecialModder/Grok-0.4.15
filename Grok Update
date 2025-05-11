@@ -1,23 +1,21 @@
 {
-  "show": false,
-  "version_code": 1490,
-  "title": "Version 5.0 Out Now!",
+  "show": true,
+  "version_code": 80,
+  "title": "Version 0.4.19 Out Now!",
   "dis": "Exciting new features available!",
   "link": "https://t.me/+A6Toh7mp-W4zN2Y0",
   "features": [
     "Bug fixes and performance improvements",
-    "New user interface",
-    "Dark mode support",
-    "Premium Features",
-    "Online Change Everything"
+    "everything improved ",
+    "click Download now to download it from our channel"
   ],
-  "update_button_text": "UPDATE",
-  "expired_button_text": "24H Trial",
+  "update_button_text": "Download now",
+  "expired_button_text": "72H Trial",
   "block_duration": {
-    "days": 1,
+    "days": 3,
     "hours": 0,
     "minutes": 0,
-    "seconds": 0
+    "seconds": 
   },
-  "dark_mode": false
+  "dark_mode": true
 }
