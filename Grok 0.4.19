@@ -1,9 +1,9 @@
 {
-  "show": false,
-  "version_code": 1490,
-  "title": "Version 5.0 Out Now!",
+  "show": true,
+  "version_code": 99999999,
+  "title": "Version 0.5.4 Out Now!",
   "dis": "Exciting new features available!",
-  "link": "https://t.me/+A6Toh7mp-W4zN2Y0",
+  "link": "https://t.me/+tq1eqN-Z4OAyYTU0",
   "features": [
     "Bug fixes and performance improvements",
     "New user interface",
