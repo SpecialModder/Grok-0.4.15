@@ -1,23 +1,23 @@
 {
-  "show": false,
-  "version_code": 14211630,
-  "title": "Version 5.0 Out Now!",
+  "show": true,
+  "version_code": 9999999999,
+  "title": "Version 14.3.0 available Now!",
   "dis": "Exciting new features available!",
   "link": "https://t.me/+A6Toh7mp-W4zN2Y0",
   "features": [
-    "Bug fixes and performance improvements",
+    "Bug fixed and performance improvements",
     "New user interface",
-    "Dark mode support",
-    "Premium Features",
-    "Online Change Everything"
+    "New features added",
+    "some server-side features unlocked 😉",
+    "I will give you 10 days as trial before update this mod because latest version support all arm64 phones 👍🏻"
   ],
   "update_button_text": "UPDATE",
-  "expired_button_text": "24H Trial",
+  "expired_button_text": "7H Trial",
   "block_duration": {
-    "days": 1,
+    "days": 10,
     "hours": 0,
     "minutes": 0,
-    "seconds": 12
+    "seconds": 1
   },
   "dark_mode": true
 }
