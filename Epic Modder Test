@@ -17,7 +17,7 @@
   
   {
     "Header": "Paid Dialog Box",
-    "package_name": "com.paid.dialog.boxa",
+    "package_name": "com.paid.dialog.box",
     "version_code": 0,
     "force_update": true,
     "title": "Update Required v14.6.0",
