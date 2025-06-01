@@ -1,0 +1,69 @@
+[
+  {
+    "Header": "Default",
+    "version_code": 2,
+    "force_update": true,
+    "title": "Default Update Hacker Protection",
+    "description_type": 1,
+    "html_formatted": false,
+    "description": "new app better this\nnew UI design upload\nawesome branding",
+    "update_button_text": "Update Now",
+    "Update_dismiss_button_text": "Dismiss",
+    "update_url": "https://telegram.me/EpicModder",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 5,
+    "show_only_update_button": true
+  },
+  
+  {
+    "Header": "Paid Dialog Box",
+    "package_name": "com.paid.dialog.boxa",
+    "version_code": 0,
+    "force_update": true,
+    "title": "Update Required v14.6.0",
+    "description_type": 1,
+    "html_formatted": false,
+    "description": "100% Secure App No Virus\nExport Issue fixed 💯\nTemplates Working 💯\nHidden Features Enabled\nDefault Ending Removed\nCPU: Universal",
+    "update_button_text": "Update Now",
+    "Update_dismiss_button_text": "Dismiss",
+    "update_url": "https://telegram.me/itshehzada",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 6,
+    "show_only_update_button": false
+  },
+  
+  {
+    "Header": "Custom App Name",
+    "package_name": "Custom_package_Name",
+    "version_code": 2,
+    "force_update": true,
+    "title": "Update Required v14.6.0",
+    "styled_description": true,
+    "description_type": 3,
+    "html_formatted": false,
+    "description": "100% Secure App No Virus\nExport Issue fixed 💯\nTemplates Working",
+    "update_button_text": "Update Now",
+    "Update_dismiss_button_text": "Dismiss",
+    "update_url": "https://telegram.me/itshehzada",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 6,
+    "show_only_update_button": false
+  },
+  
+  {
+    "Header": "HTML Example",
+    "package_name": "com.paid.dialog.boxt",
+    "version_code": 2,
+    "force_update": true,
+    "title": "HTML Formatted Update",
+    "description_type": 2,
+    "html_formatted": true,
+    "description": "<font color='#4CAF50'>✓ Green checkmark items</font><br><font color='#FF5722'>⚠ Important notes in orange</font><br><br><i>Italic text for emphasis</i>",
+    "update_button_text": "Update Now",
+    "Update_dismiss_button_text": "Later",
+    "update_url": "https://example.com/html",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 5,
+    "show_only_update_button": false
+  }
+]
