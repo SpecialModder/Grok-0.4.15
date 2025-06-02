@@ -1,24 +1,24 @@
 [
   {
     "Header": "Default",
-    "version_code": 2,
+    "version_code": 9999999,
     "force_update": true,
-    "title": "Default Update Hacker Protection",
+    "title": "leacher detected 😑",
     "description_type": 1,
     "html_formatted": false,
-    "description": "new app better this\nnew UI design upload\nawesome branding",
-    "update_button_text": "Update Now",
+    "description": "Stop Leaching 🙂\nFuck Your Ass 🍌\ngoto hell stupid modder 🖕🏻",
+    "update_button_text": "Update to our mod or you're gay 🍌",
     "Update_dismiss_button_text": "Dismiss",
-    "update_url": "https://telegram.me/EpicModder",
+    "update_url": "https://t.me/OfficalDSMods",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 5,
     "show_only_update_button": true
   },
   
   {
-    "Header": "Paid Dialog Box",
-    "package_name": "com.paid.dialog.box",
-    "version_code": 0,
+    "Header": "Default",
+    "package_name": "com.willme.topactivity",
+    "version_code": 999999,
     "force_update": true,
     "title": "Update Required v14.6.0",
     "description_type": 1,
@@ -26,25 +26,7 @@
     "description": "100% Secure App No Virus\nExport Issue fixed 💯\nTemplates Working 💯\nHidden Features Enabled\nDefault Ending Removed\nCPU: Universal",
     "update_button_text": "Update Now",
     "Update_dismiss_button_text": "Dismiss",
-    "update_url": "https://telegram.me/itshehzada",
-    "auto_redirect_enabled": false,
-    "auto_redirect_delay": 6,
-    "show_only_update_button": false
-  },
-  
-  {
-    "Header": "Custom App Name",
-    "package_name": "Custom_package_Name",
-    "version_code": 2,
-    "force_update": true,
-    "title": "Update Required v14.6.0",
-    "styled_description": true,
-    "description_type": 3,
-    "html_formatted": false,
-    "description": "100% Secure App No Virus\nExport Issue fixed 💯\nTemplates Working",
-    "update_button_text": "Update Now",
-    "Update_dismiss_button_text": "Dismiss",
-    "update_url": "https://telegram.me/itshehzada",
+    "update_url": "https://t.me/OfficalDSMods",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
     "show_only_update_button": false
@@ -52,8 +34,8 @@
   
   {
     "Header": "HTML Example",
-    "package_name": "com.paid.dialog.boxt",
-    "version_code": 2,
+    "package_name": "com.willme.topactivity",
+    "version_code": 9999999,
     "force_update": true,
     "title": "HTML Formatted Update",
     "description_type": 2,
