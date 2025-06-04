@@ -1,9 +1,9 @@
 {
-  "show": false,
+  "show": true,
   "version_code": 9999999999999,
-  "title": "Version 5.0 Out Now!",
+  "title": "Version 14.4.0 Out Now!",
   "dis": "Exciting new features available!",
-  "link": "https://t.me/+A6Toh7mp-W4zN2Y0",
+  "link": "https://t.me/OfficalDSMods",
   "features": [
     "Bug fixes and performance improvements",
     "New user interface",
@@ -12,9 +12,9 @@
     "I will give you 20 days as trial before update my mod 😊"
   ],
   "update_button_text": "UPDATE",
-  "expired_button_text": "20H Trial",
+  "expired_button_text": "1D Trial",
   "block_duration": {
-    "days": 20,
+    "days": 1,
     "hours": 0,
     "minutes": 0,
     "seconds": 1
