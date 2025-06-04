@@ -12,7 +12,7 @@
     "I will give you 1 day as trial before update this mod because latest version support all arm64 phones and have new features. this version must be updated before the 20th day 👍🏻"
   ],
   "update_button_text": "UPDATE",
-  "expired_button_text": "1H Trial",
+  "expired_button_text": "1D Trial",
   "block_duration": {
     "days": 1,
     "hours": 0,
