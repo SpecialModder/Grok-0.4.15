@@ -9,12 +9,12 @@
     "New user interface",
     "New features added",
     "some server-side features unlocked 😉",
-    "I will give you 1 day as trial before update this mod because latest version support all arm64 phones and have new features. this version must be updated before the 20th day 👍🏻"
+    "I will give you 7 days as trial before update this mod because latest version support all arm64 phones and have new features. this version must be updated before the 20th day 👍🏻"
   ],
   "update_button_text": "UPDATE",
-  "expired_button_text": "1D Trial",
+  "expired_button_text": "7D Trial",
   "block_duration": {
-    "days": 1,
+    "days": 7,
     "hours": 0,
     "minutes": 0,
     "seconds": 1
