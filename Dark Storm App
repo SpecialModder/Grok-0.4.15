@@ -12,12 +12,12 @@
     "Online Change Everything"
   ],
   "update_button_text": "UPDATE",
-  "expired_button_text": "72H Trial",
+  "expired_button_text": "10S Trial",
   "block_duration": {
-    "days": 3,
+    "days": 0,
     "hours": 0,
     "minutes": 0,
-    "seconds": 1
+    "seconds": 10
   },
   "dark_mode": true
 }
