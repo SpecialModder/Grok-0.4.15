@@ -16,7 +16,7 @@
   },
   {
     "Header": "Paid Dialog Box",
-    "package_name": "com.openai.chatgpt",
+    "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
     "force_update": true,
     "title": "Update Required v14.6.0",
@@ -32,7 +32,7 @@
   },
   {
     "Header": "HTML Example",
-    "package_name": "com.openai.chatgpt",
+    "package_name": "com.lemon.lvoverseas",
     "version_code": 92,
     "force_update": true,
     "title": "HTML Formatted Update",
