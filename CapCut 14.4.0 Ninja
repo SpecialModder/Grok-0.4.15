@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "version_code": 9999999999999,
   "title": "Version 14.4.0 «14.4.0 NinjaMods»",
   "dis": "Exciting new features available!",
@@ -9,12 +9,12 @@
     "New user interface",
     "Dark mode support",
     "Premium Features",
-    "I will give you 7 days as trial before update my mod 😊"
+    "I will give you 10 days as trial before update my mod 😊"
   ],
   "update_button_text": "UPDATE",
-  "expired_button_text": "7D Trial",
+  "expired_button_text": "10D Trial",
   "block_duration": {
-    "days": 7,
+    "days": 10,
     "hours": 0,
     "minutes": 0,
     "seconds": 1
