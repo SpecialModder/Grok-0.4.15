@@ -2,7 +2,7 @@
   {
     "Header": "Default",
     "version_code": 2,
-    "force_update": true,
+    "force_update": false,
     "title": "leacher detected 😑",
     "description_type": 1,
     "html_formatted": false,
