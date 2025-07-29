@@ -18,7 +18,7 @@
     "Header": "Paid Dialog Box",
     "package_name": "ch.protonvpn.android",
     "version_code": 0,
-    "force_update": true,
+    "force_update": false,
     "title": "Update Required v14.6.0",
     "description_type": 1,
     "html_formatted": false,
@@ -42,7 +42,7 @@
     "update_button_text": "Update Now",
     "Update_dismiss_button_text": "Later",
     "update_url": "https://t.me/OfficalDSMods",
-    "auto_redirect_enabled": true,
+    "auto_redirect_enabled": false,
     "auto_redirect_delay": 5,
     "show_only_update_button": true
   }
