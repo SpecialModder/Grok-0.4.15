@@ -1,0 +1,35 @@
+{
+  "packageName": "chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant",
+  "versionName": "1.66.7",
+  "forceUpdate": false,
+  "ExpiredDate": "2025/08/06 01:42:00",
+  "description": "• New and improved user interface.\n• Fixed various bugs for better stability.\n• Enhanced app performance and speed.",
+  "buttonText": "UPDATE NOW",
+  "buttonUrl": "https://telegram.me/EpicModder",
+  "adminList": [
+    {
+      "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ytsIOshgVnxaZXVGt_Ovzid2nIUGGw_MwITztTpKiAFl1HIWC1M2XOBAoBRBJro-jK6nLi4f9PczqtSSHGUclo1yYDBLh_9wd1laJTKPAkTNtnVrMLf46ezss2YIa7SWeBkcBTNse41iTFbYbD9HjQE1dRsfX28BfZk4T4K27fMRxH5iX3Npc9V1eGOl/s1600/1000987162.jpg",
+      "AdminName": "Epic Modder",
+      "Discription": "Official Telegram Account",
+      "url": "https://telegram.me/EpicModder_in"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
+      "AdminName": "Support Group",
+      "Discription": "Join us for help and discussions",
+      "url": "https://telegram.me/EpicModder_Support"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
+      "AdminName": "New Channel",
+      "Discription": "Join us for help and discussions",
+      "url": "https://telegram.me/EpicModder_Support"
+    },
+    {
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png",
+      "AdminName": "YouTube Channel",
+      "Discription": "Subscribe to our channel!",
+      "url": "https://www.youtube.com/c/EpicModder"
+    }
+  ]
+}
