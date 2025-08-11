@@ -18,8 +18,8 @@
     "Header": "Paid Dialog Box",
     "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
-    "force_update": false,
-    "title": "Update Required v15.0.0 🤗",
+    "force_update": true,
+    "title": "Update Required v15.1.0 🤗",
     "description_type": 1,
     "html_formatted": false,
     "description": "Please join our channel now to download latest version. 👍🏻\nUninstall this version before install capcut 15.0.0 version\nClick On update now button to join our channel and download latest version now. 👍🏻",
@@ -28,7 +28,7 @@
     "update_url": "https://t.me/OfficalDSMods",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
-    "show_only_update_button": falae
+    "show_only_update_button": true
   },
   {
     "Header": "HTML Example",
