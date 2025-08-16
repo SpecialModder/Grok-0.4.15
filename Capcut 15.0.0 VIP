@@ -18,8 +18,8 @@
     "Header": "Paid Dialog Box",
     "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
-    "force_update": false,
-    "title": "Update Required v14.6.0",
+    "force_update": true,
+    "title": "Update Required v15.2.0 🤗",
     "description_type": 1,
     "html_formatted": false,
     "description": "New Update Mean New Features 😉\nUpdate & Enjoy 🤫\nClick On Update Bottom to Download Latest Version From Our Channels 🤗\n @itshehzada \n @SpecialModder",
@@ -28,7 +28,7 @@
     "update_url": "https://t.me/OfficalDSMods",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
-    "show_only_update_button": false
+    "show_only_update_button": true
   },
   {
     "Header": "HTML Example",
