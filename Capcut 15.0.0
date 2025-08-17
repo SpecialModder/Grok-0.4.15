@@ -28,7 +28,7 @@
     "update_url": "https://t.me/+5DNt79C7_ZcxNjU0",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
-    "show_only_update_button": false
+    "show_only_update_button": true
   },
   {
     "Header": "HTML Example",
