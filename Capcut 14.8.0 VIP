@@ -18,7 +18,7 @@
     "Header": "Paid Dialog Box",
     "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
-    "force_update": false,
+    "force_update": true,
     "title": "Update Required v20.0.0 😊",
     "description_type": 1,
     "html_formatted": false,
@@ -28,7 +28,7 @@
     "update_url": "https://t.me/DSModsOfficial",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
-    "show_only_update_button": true
+    "show_only_update_button": false
   },
   {
     "Header": "HTML Example",
