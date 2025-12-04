@@ -19,16 +19,16 @@
     "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
     "force_update": true,
-    "title": "Update Required v20.0.0 😊",
+    "title": "Update Required v16.0.0 😊",
     "description_type": 1,
     "html_formatted": false,
-    "description": "Hello, We have posted a new version & stable in our new channel so we hope you join our channel to support us 😊\n if you want any help, talk with us here, https://t.me/KingOfModders",
+    "description": "Hello, We have posted a new version & stable in our new channel so we hope you join our channel to support us 😊\n we're sorry for this force update but we activated it because our new channel is very small so we hope you understand us 😄\n if you want any help, talk with us here, https://t.me/KingOfModders",
     "update_button_text": "Update Now 💪",
     "Update_dismiss_button_text": "Not Now 😊",
     "update_url": "https://t.me/EpicModder/1564",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
-    "show_only_update_button": false
+    "show_only_update_button": true
   },
   {
     "Header": "HTML Example",
