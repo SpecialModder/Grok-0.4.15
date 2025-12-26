@@ -18,7 +18,7 @@
     "Header": "Paid Dialog Box",
     "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
-    "force_update": true,
+    "force_update": false,
     "title": "CapCat 15.2.0 has been released «LifeTime Mod» 🤗",
     "description_type": 1,
     "html_formatted": false,
