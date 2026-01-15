@@ -18,17 +18,17 @@
     "Header": "Paid Dialog Box",
     "package_name": "com.lemon.lvoverseas",
     "version_code": 0,
-    "force_update": false,
+    "force_update": true,
     "title": "CapCat 16.4.0 has been released " Stable Mod "",
     "description_type": 1,
     "html_formatted": false,
-    "description": "Hello, We have posted a new & stable version in our new channel so we hope you join us to support us 😊\n if you want help, talk with us here, https://t.me/KingOfModders",
+    "description": "Hello, We have posted a new & stable version in our new channel so we hope you join us to support us 😊\n if you want help, talk with us here, https://t.me/KingOfModders\n latest version don't have force update dialog 🤗",
     "update_button_text": "Update Now 💪",
     "Update_dismiss_button_text": "Not Now 👍",
     "update_url": "https://t.me/DSModsOfficial/113",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
-    "show_only_update_button": false
+    "show_only_update_button": true
   },
   {
     "Header": "HTML Example",
