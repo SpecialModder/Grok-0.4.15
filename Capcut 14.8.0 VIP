@@ -28,7 +28,7 @@
     "update_url": "https://t.me/DSModsOfficial/168",
     "auto_redirect_enabled": false,
     "auto_redirect_delay": 6,
-    "show_only_update_button": true
+    "show_only_update_button": false
   },
   {
     "Header": "HTML Example",
